@@ -47,10 +47,14 @@ This project aimed to simulate a real-time cyberattack on a Windows-based laptop
 ## 📸 Screenshots
 
 > _(Blur or redact anything sensitive before uploading)_  
-- ![Empire Listener](screenshots/empire-listener.png)  
-- ![Payload .bat](screenshots/payload-bat.png)  
-- ![Remote Access Confirmed](screenshots/remote-shell.png)  
-- ![Report Summary](screenshots/report-summary.png)  
+- ![Empire Listener](Flowchart.png)  
+- ![Payload .bat](Ss1.png)  
+- ![Remote Access Confirmed](ss2.png)  
+- ![Report Summary](ss3.png)
+- ![Empire Listener](ss4.png)
+- ![Empire Listener](ss5.png)
+
+ 
 
 ---
 
